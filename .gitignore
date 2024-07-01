@@ -1,0 +1,5 @@
+db.sqlite3
+devserver.sh
+.idea/
+.vscode/
+alinz_red/
